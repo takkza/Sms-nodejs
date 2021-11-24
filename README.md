@@ -1,9 +1,8 @@
 # Sms-nodejs
-Install nodejs : 
-apt install nodejs
-apt install npm
+Install nodejs : apt install nodejs
+Install npm : apt install npm
 
-Install npm : npm i axios randomstring form-data qs https-proxy-agent prompt-sync
+Install Module : npm i axios randomstring form-data qs https-proxy-agent prompt-sync
 
 Run : node shadowsms.js (เบอร์) (จำนวน)
 
